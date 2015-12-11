@@ -1,1 +1,8 @@
-Tasker task to add url to unmark.it with the share dialog
+Tasker profile to add urls to unmark.it via the share dialog
+
+Dependencies:
+
+- Tasker for Android (https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+- AutoShare (https://play.google.com/store/apps/details?id=com.joaomgcd.autoshare)
+
+Just add a command to AutoShare with the name "Unmark Add".
